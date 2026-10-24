@@ -225,3 +225,9 @@ The report documents:
 The project demonstrates practical DevSecOps security automation and remediation. It does not claim comprehensive penetration testing or a vulnerability-free environment.
 
 **SkynetAI-Labs | GitHub DevSecOps Portfolio**
+
+
+## Repository audit — 24 October 2026
+
+See the [dated security audit and prioritised recommendations](SECURITY_AUDIT.md) for the reviewed source commit, verification results, open findings and evidence limitations.
+
